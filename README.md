@@ -14,4 +14,4 @@ Samsung S5KHM2 Type: ISOCELL
 
 this site will be about my city , nature around it and everyting beautiful that represent this part of state.. ENJOY!
 
-![minion] (https://octodex.github.com/images/minion.png
+![minion] (https://octodex.github.com/images/minion.png)
